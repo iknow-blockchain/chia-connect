@@ -1,4 +1,4 @@
-# Connect to I Know Blockchain — Chia with native Codex
+# Connect to iKnow Blockchain — Chia with native Codex
 
 September 17, 2026: production login and a fresh Codex process passed. Access is currently allowlisted to Jake. Other accounts need an invitation before this connection will work. This is a remote MCP connection, not an executable plugin ZIP or an approved store listing.
 
